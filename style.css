@@ -1,0 +1,96 @@
+.main{
+    display: flex !important;
+}
+.nav{
+    background-color: white !important;
+width: 1500px !important;
+  position: sticky !important;
+    top: 0px !important;
+    right: 300px !important;
+   margin-left: 0px !important;
+   margin-top: 15px !important;
+   z-index: 1px !important;
+}
+.text-box{
+    display: flex !important;
+    margin-left: 500px;
+    
+
+}
+.abc{
+    color: #ff2b85;
+    font-size: 25px;
+}
+.login-btn{
+    border: 2px solid #D70F64 ;
+    color:#D70F64;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    padding-top: 5px;
+    
+
+}
+.login-btn:hover{
+    background-color: #FDF2F7;
+    color: #D70F64;
+}
+.signup-btn{
+    border: 2px solid #ff2b85;
+    color:white;
+    background-color: #FF2B85;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    padding-top: 5px;
+}
+.signup-btn:hover{
+    background-color: #D70F64;
+    color: #FDF2F7;
+}
+.dropdown{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.dropdown:hover{
+    background-color: #f6b2cf;
+}
+.z1{
+    margin-left: 20px;
+    padding-top: 10px;
+    margin-right: 100px;
+}
+.first{
+    padding-left: 600px;
+    background-color: lightgrey;
+    z-index: 1px;
+}
+.para{
+    position: relative;
+    bottom: 400px;
+    padding-left: 30px;
+    margin-left: 500px;
+    
+}
+#p1{
+    font-size: 40px;
+    z-index: -1px;
+
+
+}
+.abcc{
+    width: 100%;
+    border-radius: 10px;
+}
+#p3{
+    margin-right: 600px;
+}
+
+
+
